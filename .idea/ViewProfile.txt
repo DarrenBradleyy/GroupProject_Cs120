@@ -1,1 +1,12 @@
-This is a test 
+PROFILE PAGE
+User profile page of website where you can view and edit your profile information.
+
+-Profile page consists of the following fields
+    -Username
+    -Picture
+    -First Name
+    -Last Name
+    -Email Address
+    -Description
+
+-From the profile page you can access: Home page, or ResetPassword page
