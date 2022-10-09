@@ -1,0 +1,11 @@
+Header with 'login' title and Image of University logo
+
+Icon in top right corner where you can view account details page if you are logged in, if not logged in takes you to login facility
+
+Nav bar which you can use to go to the different pages (Home page, Create account page, login page, forum page, Reset password page)
+
+Html form with 2 fields: Username and password (Required fields)
+
+Submit button which once clicked runs query on connected database to check if username and password match with once in DB
+
+If match takes you to account details page and if not a match error message 'Account not found'

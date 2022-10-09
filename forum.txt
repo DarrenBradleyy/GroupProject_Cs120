@@ -1,0 +1,14 @@
+Header with 'Forum' title and Image of University logo
+
+Icon in top right corner where you can view account details page if you are logged in, if not logged in takes you to login facility
+
+Main body of page with 2 Headings, 'View Forum' and 'Post to forum'
+
+If either one is clicked drop down menu with relevant information
+
+Post to forum - HTML form with fields 'Title' and 'Content' which are both required. A submit button below which posts the HTML form content
+to the main forum for others to see. Can only post on forum if you are logged into the website. Would be achieved using session variables
+with the session starting on the login page and carrying over to forum page to check if the user is logged in
+
+View Forum - Area to check newly posted forms from yourself and other users of the website. On each post there are buttons to like
+and reply to each post if you wish to do so.
