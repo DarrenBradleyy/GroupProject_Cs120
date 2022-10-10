@@ -1,0 +1,43 @@
+Header with 'Create Account' title and Image of University logo
+
+Back Button to return to the homepage
+
+Create Account title
+
+Welcome to the MYPLace forum account creation page
+Please fill the form below and register to make use of the forum
+
+
+
+
+HTML Form Begins
+
+Name:
+
+Student Id No:
+
+Date of Birth:
+
+Email Address:
+
+Telephone Number:
+
+Username:xx
+
+Password:
+
+Course Dropdown:
+
+Year of Study:
+
+Security Question:
+Security Answer:
+
+
+CAPTCHA:
+
+Terms and Conditions CheckBox
+
+HTML form ends
+
+Create account and Continue to the forum page button
