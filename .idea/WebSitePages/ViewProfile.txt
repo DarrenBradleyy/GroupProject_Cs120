@@ -1,6 +1,8 @@
 PROFILE PAGE
 User profile page of website where you can view and edit your profile information.
 
+Header with "Username" Image of website logo in top left of screen
+
 -Profile page consists of the following fields
     -Username
     -Picture
@@ -8,5 +10,8 @@ User profile page of website where you can view and edit your profile informatio
     -Last Name
     -Email Address
     -Description
+
+Each of the above fields can be edited containing a text box where the value can be changed. Other than EmailAddress which requires addtional confirmation.
+There will be a check on Username to ensure the Username is available before allowing you to change it.
 
 -From the profile page you can access: Home page, or ResetPassword page
