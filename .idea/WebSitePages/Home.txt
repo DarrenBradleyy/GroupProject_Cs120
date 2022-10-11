@@ -1,0 +1,15 @@
+Header with 'Home Page' Title and Image of University Logo
+
+Icon at top left where you can access forum page and view details
+
+Icon at top of page where you can access the login to the website
+
+Icon at top right of page where you can access viewing your profile and reset your password
+
+If the above icons are selected, these will redirect you to the other stated web pages
+
+If not logged into your account as stated above, the website will only display general news and university updates
+
+Main body of page will include general news and updates from the University,
+these will be displayed as images - If the images is clicked on,
+the website will then redirect you to the respective update or news article
